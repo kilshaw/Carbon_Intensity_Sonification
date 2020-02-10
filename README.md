@@ -10,9 +10,10 @@ Python, json, puredata.
 # How to use:
 Run/ execute the python script. Launch puredata patch. 
 The patch sends back regional requests from the radio button selector via UdpSend, 
-and receives the pulled requests back from python via multiple  Udpreveice.
+and receives the pulled requests (https://api.carbonintensity.org.uk/regional) back from python json via multiple  Udpreveice.
 
 Some puredata dependencies: moocow, mrpeach
 
 
 simon.kilshaw@uwtsd.ac.uk
+https://www.youtube.com/channel/UCt3xpl_p0O0HEupokGE2k0w/videos
